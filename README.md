@@ -138,20 +138,6 @@ The application follows a straightforward **screen-based architecture** with cle
 
 ---
 
-## 📱 Screenshots
-
-<div align="center">
-
-| Login Screen | Dashboard | Exercise Library | Workout Details |
-|--------------|-----------|------------------|-----------------|
-| ![Login](https://via.placeholder.com/200x400/1976D2/FFFFFF?text=Login) | ![Dashboard](https://via.placeholder.com/200x400/388E3C/FFFFFF?text=Dashboard) | ![Exercises](https://via.placeholder.com/200x400/F57C00/FFFFFF?text=Exercises) | ![Workout](https://via.placeholder.com/200x400/7B1FA2/FFFFFF?text=Workout) |
-
-*High-fidelity mockups - actual screenshots coming soon*
-
-</div>
-
----
-
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -516,5 +502,6 @@ furnished to do so, subject to the following conditions:
 **⭐ Star this repository if you found it helpful!**
 
 *Made with ❤️ by the FitTracker Pro Team*
+
 
 </div>
