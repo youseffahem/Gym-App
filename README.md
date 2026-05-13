@@ -482,20 +482,6 @@ furnished to do so, subject to the following conditions:
 
 ---
 
-## 📞 Support & Contact
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-support%40fittracker.com-red?style=for-the-badge&logo=gmail)](mailto:support@fittracker.com)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289da?style=for-the-badge&logo=discord)](https://discord.gg/fittracker)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow%20Us-1da1f2?style=for-the-badge&logo=twitter)](https://twitter.com/fittrackerpro)
-[![Documentation](https://img.shields.io/badge/Docs-Read%20More-green?style=for-the-badge&logo=gitbook)](https://docs.fittracker.com)
-
-**Need help?** Check our [FAQ](FAQ.md) or [open an issue](https://github.com/yourusername/fittracker-pro/issues)
-
-</div>
-
----
 
 <div align="center">
 
